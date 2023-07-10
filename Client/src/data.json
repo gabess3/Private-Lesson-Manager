@@ -1,0 +1,16 @@
+[
+	{
+		"fullName": "test",
+		"parentName": "parent test",
+		"parentEmail": "email test",
+		"school": "school test",
+		"class": "class test"
+	},
+	{
+		"fullName": "test2",
+		"parentName": "parent test2",
+		"parentEmail": "email test2",
+		"school": "school test2",
+		"class": "class test2"
+	}
+]
